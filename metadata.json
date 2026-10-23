@@ -1,0 +1,6 @@
+{
+  "name": "Zubair WebsiteWala",
+  "description": "Personal blogging platform for Zubair WebsiteWala — sharing ideas, AI discoveries, technology breakdowns, and business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
